@@ -1,0 +1,6 @@
+This is Clock UI - Analog.
+
+Tech Used - HTML, CSS, Javasciprt
+
+Code Length - 448 lines ( HTML - 59 lines, CSS - 281 lines, JS - 108 lines)
+         
